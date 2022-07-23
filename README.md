@@ -22,16 +22,17 @@ Examples:
 ```
   
 ## Build and install from source
-Step 0: 
+Step 0:   
+
 Clone this repo  
   
 Step 1:
-``` sh
+```sh
 $ sudo make install
 ```
   
 Thats all!
 ## Uninstall
-``` sh
+```sh
 $ sudo make uninstall
 ```
