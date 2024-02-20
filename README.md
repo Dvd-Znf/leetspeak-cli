@@ -1,6 +1,9 @@
-# leetspeak-cli
+# leetspeak-cli [NO LONGER MAINTAINED]
 Simple program that will grant you the ability to speak the eleet language from your favorite shell.  
-  
+     
+## DEPRECATION NOTICE:     
+This repo hasn't been updated in a while so it isn't under active development anymore!        
+<3        
 ## Help  
 ```
 Usage: leet <command> <args>
